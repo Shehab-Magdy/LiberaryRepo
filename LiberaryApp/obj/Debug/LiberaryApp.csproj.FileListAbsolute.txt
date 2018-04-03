@@ -1,0 +1,6 @@
+E:\Shehab\asp_html_css\LibraryApp\LiberaryApp\bin\LiberaryApp.dll.config
+E:\Shehab\asp_html_css\LibraryApp\LiberaryApp\bin\LiberaryApp.dll
+E:\Shehab\asp_html_css\LibraryApp\LiberaryApp\bin\LiberaryApp.pdb
+E:\Shehab\asp_html_css\LibraryApp\LiberaryApp\obj\Debug\LiberaryApp.csprojResolveAssemblyReference.cache
+E:\Shehab\asp_html_css\LibraryApp\LiberaryApp\obj\Debug\LiberaryApp.dll
+E:\Shehab\asp_html_css\LibraryApp\LiberaryApp\obj\Debug\LiberaryApp.pdb
